@@ -1,0 +1,16 @@
+﻿{
+  "Descriptor": {
+    "UId": "534c08e6-4f30-4a0d-b02d-acdfd8f68b86",
+    "PackageVersion": "1.0.0",
+    "Name": "TestPack",
+    "ModifiedOnUtc": "\/Date(1568622754000)\/",
+    "Maintainer": "Navicon",
+    "DependsOn": [
+      {
+        "UId": "c8dd853f-c45c-42b9-aff4-5d1de84b83be",
+        "PackageVersion": "7.8.0",
+        "Name": "SalesCommerce_Marketing_CustomerCenter"
+      }
+    ]
+  }
+}
